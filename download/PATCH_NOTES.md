@@ -2,6 +2,20 @@
 
 Every update of the game, newest first. Added, removed, fixed and changed: what is new for you at the table.
 
+## Version 2026.11.16 · November 16, 2026
+### Changes
+- Star Trek creatures and ships fire phasers: their damage to a creature or a player is a red beam of light from the card with its own sound (Klingons, Romulans and Borg fire green, Cardassians and Ferengi yellow)
+- Clearer sounds everywhere: the game no longer muddies the low mids of every effect and gives them more air on top; about 90 creature voices cleaned up (Bears, Wolves, birds, Elephants, Rhinos, Oxen, Spirits, Horrors, Hyenas, Griffins, Gods ...), Ravens and Crows have their own cry, a Klingon's "Qapla'!" is clear, a Warrior's roar no longer stops short, a burnt card's embers crackle like a real fire
+- A creature with several types speaks as the more particular one: an Ape Beast as an Ape, a Bear Beast as a Bear; races before classes (a Goblin Rogue is a Goblin, a Human Warrior a Warrior)
+- Bots talk more like their deck: a Star Trek, Middle-earth, Phyrexian, Bloomburrow, Duskmourn ... deck greets, attacks, wins and loses its own way, with a few famous lines; they remark on what really happens (a creature back from the graveyard, a stolen card, revenge on whoever took their commander, commander damage close to 21), grumble when it isn't going well, say "Mhm..." when they think long or "Decisions, decisions..." with many options, and tell a little story now and then instead of talking about nothing; art remarks only for really special printings
+- After a tournament you can always start or join a new table (leaving through the standings kept you at the finished one, with no Leave button to press)
+- A table that still holds you shows itself again with its Leave button whenever you try to start or join another one
+- A game that has been silent for 30 seconds with no question for you asks the server for the table again by itself
+- Cards a permanent exiled (impulse draw, Oblivion Ring) peek out from behind it in their own shape, no longer squashed
+- Bots no longer give a creature an ability it already has when they can choose (Practiced Offense gives double strike to a lifelinker)
+- Bots treat Desert's Due as removal, don't pay Marooned's {3} to tap a creature that is already tapped, and give Engineered Explosives the count that wipes their opponents' board, not their own (2 when nothing else fits)
+- Limited bots' decks keep their set's basic lands
+
 ## Version 2026.11.15 · November 15, 2026
 ### Changes
 - More commanders speak when they enter: Loot (every Loot card), Gisa and Geralf, Galadriel, Lathril, Ezuri and Rhys the Redeemed, each with three lines of their own
